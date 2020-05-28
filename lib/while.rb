@@ -1,6 +1,6 @@
 
 def using_while 
-  while 
+  while levitation_force
   levitation_force = 6
   
   using_while = 'Wingardium Leviosa'
